@@ -98,7 +98,17 @@
 -------
 
 <h4 align="center">
-  <samp>Tutorial Projects for devs to get hands on</samp>
+  <samp>Gists created</samp>
+</h4>
+
+| gists | Type
+| :---: | :--- 
+| [Countries with Code, Flag,Dial Code, Unicode](https://gist.github.com/MHDYousuf/7fff015d0dfe0cebb60399c6e1472ff9) | <img alt="JSON" height="18px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+
+-------
+
+<h4 align="center">
+  <samp>Tutorial Projects for devs to get hands-on </samp>
 </h4>
 
 | project | last commit | tech stack
