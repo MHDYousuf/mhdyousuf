@@ -52,8 +52,8 @@
   <i>
     <samp>
       Currently, I am focused on building employer projects in Bitbucket so you would not see me in GitHub.<br/>But if you want to build a website 🤘, mail me at <br/><br />
-      <a href="https://www.instagram.com/iam___yousuf/"><img
-    alt="Instagram"
+      <a href="https://mail.google.com/mail/u/0/?fs=1&to=mohd4yousuf@gmail.com&tf=cm"><img
+    alt="GMAIL"
     height="18px"
     src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=16"
   /></a>
