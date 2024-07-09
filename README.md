@@ -7,7 +7,7 @@
 <h3 align="center">
   <i>
     <samp>
-      I am a front-end web developer with 4+ years of experience, you will see me working here and there.
+      I am a front-end web developer, you will see me working here and there.
     </samp>
   </i>
 </h3>
