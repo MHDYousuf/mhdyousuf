@@ -6,7 +6,7 @@
   <i>
     <samp>
       Front-end engineer shipping thoughtful products for the web.<br/>
-      Building multi-tenant SaaS, invitation experiences, and developer tooling — solo, in public.
+      Building multi-tenant SaaS, invitation experiences, and developer tooling - solo, in public.
     </samp>
   </i>
 </p>
@@ -60,14 +60,14 @@
 <h2 align="center"><samp>🚀 &nbsp; Products I'm building</samp></h2>
 
 <p align="center">
-  <i><samp>Live products — not side projects. Real users, real billing, real support.</samp></i>
+  <i><samp>Live products - not side projects. Real users, real billing, real support.</samp></i>
 </p>
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://platform.gealo.app">Gealo</a> <sup>·</sup> <sub><samp>platform.gealo.app</samp></sub></h3>
-      <p><b>One workspace for a team's whole day.</b><br/>Tasks with sprints, channels that know your tasks, recurring meetings, workforce HR (attendance, leave, approvals), GitHub linked to every PR, and an AI agent with real tool calls. Multi-tenant by construction — every row scoped by <code>tenant_id</code>.</p>
+      <p><b>One workspace for a team's whole day.</b><br/>Tasks with sprints, channels that know your tasks, recurring meetings, workforce HR (attendance, leave, approvals), GitHub linked to every PR, and an AI agent with real tool calls. Multi-tenant by construction - every row scoped by <code>tenant_id</code>.</p>
       <p>
         <img alt="Nuxt" height="18" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
         <img alt="NestJS" height="18" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
@@ -79,7 +79,7 @@
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://ourvows.online">OurVows</a> <sup>·</sup> <sub><samp>ourvows.online</samp></sub></h3>
-      <p><b>Invitations that feel as considered as the occasion.</b><br/>A calm, cinematic home for weddings, nikahs, receptions, anniversaries, and team celebrations. One elegant link that carries your story, your RSVP, and your details — no group-chat threads, no spreadsheets.</p>
+      <p><b>Invitations that feel as considered as the occasion.</b><br/>A calm, cinematic home for weddings, nikahs, receptions, anniversaries, and team celebrations. One elegant link that carries your story, your RSVP, and your details - no group-chat threads, no spreadsheets.</p>
       <p>
         <img alt="Nuxt" height="18" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
         <img alt="GSAP" height="18" src="https://img.shields.io/badge/GSAP-31C48D?style=flat-square&logo=greensock&logoColor=white"/>
@@ -90,7 +90,7 @@
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/MHDYousuf/vps-rescue">vps-rescue</a> <sup>·</sup> <sub><samp>npm i -g vps-rescue</samp></sub></h3>
-      <p><b>Rescue an unreachable VPS in ~90 seconds.</b><br/>Diagnoses why SSH is failing, then mints a single-use 5-minute Tailscale auth key on <i>your own</i> tailnet and prints a paste-able install one-liner. Zero SaaS, zero relay infra — packets travel end-to-end over your existing WireGuard mesh.</p>
+      <p><b>Rescue an unreachable VPS in ~90 seconds.</b><br/>Diagnoses why SSH is failing, then mints a single-use 5-minute Tailscale auth key on <i>your own</i> tailnet and prints a paste-able install one-liner. Zero SaaS, zero relay infra - packets travel end-to-end over your existing WireGuard mesh.</p>
       <p>
         <img alt="TypeScript" height="18" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img alt="Node" height="18" src="https://img.shields.io/badge/Node-20%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -110,7 +110,7 @@
 
 | &nbsp; | project | install | last commit | downloads | version |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/typescript.svg" height="14px" /> | [**vps-rescue**](https://github.com/MHDYousuf/vps-rescue) — Tailscale-based SSH rescue for null-routed VPSes | [`npx vps-rescue`](https://www.npmjs.com/package/vps-rescue) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/vps-rescue?style=flat&label=last)](https://github.com/mhdyousuf/vps-rescue/commits) | [![downloads](https://img.shields.io/npm/dm/vps-rescue?style=flat&label=&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vps-rescue) | ![version](https://img.shields.io/github/package-json/v/mhdyousuf/vps-rescue/main?style=flat&label=&labelColor=555&logo=github) |
+| <img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/typescript.svg" height="14px" /> | [**vps-rescue**](https://github.com/MHDYousuf/vps-rescue) - Tailscale-based SSH rescue for null-routed VPSes | [`npx vps-rescue`](https://www.npmjs.com/package/vps-rescue) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/vps-rescue?style=flat&label=last)](https://github.com/mhdyousuf/vps-rescue/commits) | [![downloads](https://img.shields.io/npm/dm/vps-rescue?style=flat&label=&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vps-rescue) | ![version](https://img.shields.io/github/package-json/v/mhdyousuf/vps-rescue/main?style=flat&label=&labelColor=555&logo=github) |
 
 <h4 align="center"><samp>NPM packages</samp></h4>
 
@@ -123,7 +123,7 @@
 
 | gist | type |
 | :--- | :--- |
-| [Countries — code, flag, dial code, unicode](https://gist.github.com/MHDYousuf/7fff015d0dfe0cebb60399c6e1472ff9) | <img alt="JSON" height="18" src="https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white" /> |
+| [Countries - code, flag, dial code, unicode](https://gist.github.com/MHDYousuf/7fff015d0dfe0cebb60399c6e1472ff9) | <img alt="JSON" height="18" src="https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white" /> |
 
 <hr/>
 
@@ -146,7 +146,7 @@
 | [**Accounting Portal**](https://accounting-staging.devnhr.com/) &nbsp;<img alt="migrated" height="18" src="https://img.shields.io/badge/site%20migrated-e8c309?style=flat-square" /> | <img alt="Nuxt" height="18" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/> <img alt="Vuetify" height="18" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" /> <img alt="Lodash" height="18" src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" /> <img alt="SCSS" height="18" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> |
 | [**Traderz Customer Portal**](https://traderz-web.devnhr.com/login/) &nbsp;<img alt="migrated" height="18" src="https://img.shields.io/badge/site%20migrated-e8c309?style=flat-square" /> | <img alt="Nuxt" height="18" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/> <img alt="Vuetify" height="18" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" /> <img alt="Lodash" height="18" src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" /> <img alt="SCSS" height="18" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> |
 | [**Project Pulse**](https://pulse-staging.devnhr.com/) &nbsp;<img alt="migrated" height="18" src="https://img.shields.io/badge/site%20migrated-e8c309?style=flat-square" /> | <img alt="Nuxt" height="18" src="https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white"/> <img alt="PrimeVue" height="18" src="https://img.shields.io/badge/PrimeVue-4E8EF7?style=flat-square" /> <img alt="Lodash" height="18" src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=lodash&logoColor=white" /> <img alt="SCSS" height="18" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> |
-| [**Nathan Group — Golf Day**](https://nathangolfday.com/) &nbsp;<img alt="down" height="18" src="https://img.shields.io/badge/site%20down-e84141?style=flat-square" /> | <img alt="Next" height="18" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="SCSS" height="18" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> |
+| [**Nathan Group - Golf Day**](https://nathangolfday.com/) &nbsp;<img alt="down" height="18" src="https://img.shields.io/badge/site%20down-e84141?style=flat-square" /> | <img alt="Next" height="18" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="SCSS" height="18" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> |
 
 <hr/>
 
@@ -158,11 +158,11 @@
 
 | project | last commit | tech stack |
 | :--- | :--- | :--- |
-| [Agora Web SDK NG — Tutorial](https://github.com/MHDYousuf/AgoraWebSDK-NG-React) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/AgoraWebSDK-NG-React?style=flat&label=last)](https://github.com/mhdyousuf/AgoraWebSDK-NG-React/commits) | <img alt="React" height="18" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Agora" height="18" src="https://img.shields.io/badge/Agora.io-099DFD?style=flat-square" /> |
-| [React Native — Context API &amp; Redux User Auth](https://github.com/MHDYousuf/reactnative-redux-userAuth) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/reactnative-redux-userAuth?style=flat&label=last)](https://github.com/mhdyousuf/reactnative-redux-userAuth/commits) | <img alt="RN" height="18" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Redux" height="18" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" /> |
+| [Agora Web SDK NG - Tutorial](https://github.com/MHDYousuf/AgoraWebSDK-NG-React) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/AgoraWebSDK-NG-React?style=flat&label=last)](https://github.com/mhdyousuf/AgoraWebSDK-NG-React/commits) | <img alt="React" height="18" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Agora" height="18" src="https://img.shields.io/badge/Agora.io-099DFD?style=flat-square" /> |
+| [React Native - Context API &amp; Redux User Auth](https://github.com/MHDYousuf/reactnative-redux-userAuth) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/reactnative-redux-userAuth?style=flat&label=last)](https://github.com/mhdyousuf/reactnative-redux-userAuth/commits) | <img alt="RN" height="18" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Redux" height="18" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" /> |
 | [Agora SDK with Handtrack.js](https://github.com/MHDYousuf/Agora-handtrack-tutorial) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/Agora-handtrack-tutorial?style=flat&label=last)](https://github.com/mhdyousuf/Agora-handtrack-tutorial/commits) | <img alt="React" height="18" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Agora" height="18" src="https://img.shields.io/badge/Agora.io-099DFD?style=flat-square" /> <img alt="Handtrack" height="18" src="https://img.shields.io/badge/Handtrack.js-4337CA?style=flat-square" /> |
-| [Oreo animation — CSS + Vanilla JS](https://github.com/MHDYousuf/Oreo-animation) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/Oreo-animation?style=flat&label=last)](https://github.com/mhdyousuf/Oreo-animation/commits) | <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="JS" height="18" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
-| [Bar-chart race — JS + CSS](https://github.com/MHDYousuf/youtube-chart) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/youtube-chart?style=flat&label=last)](https://github.com/mhdyousuf/youtube-chart/commits) | <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="JS" height="18" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| [Oreo animation - CSS + Vanilla JS](https://github.com/MHDYousuf/Oreo-animation) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/Oreo-animation?style=flat&label=last)](https://github.com/mhdyousuf/Oreo-animation/commits) | <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="JS" height="18" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| [Bar-chart race - JS + CSS](https://github.com/MHDYousuf/youtube-chart) | [![last](https://img.shields.io/github/last-commit/mhdyousuf/youtube-chart?style=flat&label=last)](https://github.com/mhdyousuf/youtube-chart/commits) | <img alt="HTML" height="18" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="JS" height="18" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="CSS" height="18" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 
 <hr/>
 
@@ -181,16 +181,29 @@
 <p align="center">
   <a href="https://github.com/MHDYousuf">
     <img
-      height="165"
-      alt="Mohammed Yousuf — GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=MHDYousuf&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=1FBFA6&icon_color=1FBFA6"
+      alt="Repos per language"
+      src="https://raw.githubusercontent.com/MHDYousuf/mhdyousuf/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
     />
   </a>
   <a href="https://github.com/MHDYousuf">
     <img
-      height="165"
-      alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHDYousuf&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=1FBFA6"
+      alt="Most committed language"
+      src="https://raw.githubusercontent.com/MHDYousuf/mhdyousuf/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MHDYousuf">
+    <img
+      alt="GitHub profile stats"
+      src="https://raw.githubusercontent.com/MHDYousuf/mhdyousuf/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    />
+  </a>
+  <a href="https://github.com/MHDYousuf">
+    <img
+      alt="Productive time"
+      src="https://raw.githubusercontent.com/MHDYousuf/mhdyousuf/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
     />
   </a>
 </p>
@@ -198,7 +211,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      height="165"
+      height="180"
       alt="GitHub streak"
       src="https://streak-stats.demolab.com?user=MHDYousuf&theme=tokyonight&hide_border=true&ring=1FBFA6&fire=1FBFA6&currStreakLabel=1FBFA6"
     />
@@ -206,16 +219,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@MHDYousuf">
-    <img
-      alt="Weekly coding activity"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=MHDYousuf&layout=compact&hide_border=true&theme=tokyonight&title_color=1FBFA6&langs_count=8"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub><samp><i>WakaTime card needs a public profile at <a href="https://wakatime.com/settings/profile">wakatime.com</a> — will populate once your dashboard is set to public.</i></samp></sub>
+  <sub><samp><i>Cards are self-hosted from this repo - regenerated daily by <code>.github/workflows/profile-cards.yml</code>, so no third-party rate limits.</i></samp></sub>
 </p>
 
 <h4 align="center"><samp>🐍 &nbsp; Contribution snake</samp></h4>
@@ -233,7 +237,7 @@
 <h2 align="center"><samp>📬 &nbsp; Work with me</samp></h2>
 
 <p align="center">
-  <i><samp>Most of my day-to-day is in private repos, so GitHub only shows a slice.<br/>If you want a website, a multi-tenant SaaS, or a piece of infra tooling built — reach out.</samp></i>
+  <i><samp>Most of my day-to-day is in private repos, so GitHub only shows a slice.<br/>If you want a website, a multi-tenant SaaS, or a piece of infra tooling built - reach out.</samp></i>
 </p>
 
 <p align="center">
